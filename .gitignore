@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+data
+models
+reports
+
+
+practice.ipynb
 __pycache__/
 *.py[codz]
 *$py.class
